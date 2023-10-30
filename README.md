@@ -1,1 +1,1 @@
-![GitHub Logo](.image_resources/newsgrid.png)
+![GitHub Logo](./image_resources/newsgrid.png)
