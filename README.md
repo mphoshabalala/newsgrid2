@@ -2,7 +2,12 @@
 
 ![GitHub Logo](./image_resources/newsgrid.png)
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Row 1, Cell 1 | Row 1, Cell 2 |
-| Row 2, Cell 1 | Row 2, Cell 2 |
+## Lists
+## **Table of content**:
+- **Title**
+  - Website demo image
+- **Website features**
+  - Languages used
+  - About the website
+- **Usage and testing**
+  - How to run and test it
